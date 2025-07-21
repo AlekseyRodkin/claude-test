@@ -6,6 +6,7 @@ permissions:
   issues: write
   actions: write
   checks: write
+  id-token: write
 
 on:
   issue_comment:
